@@ -1,0 +1,12 @@
+// 인증키
+// 다음부터 서버 리소스를 접근할 때 이 키를 이용하여 접근
+NID_AUT=
+nkCXbdaKAd2X+1tXbr0z2M+FJjs2ETlxk0/S8IjHkt6gxXxH5oLsDTzxC0BL8vvg; 
+domain=.naver.com; 
+HttpOnly
+
+// 세션토큰
+// 접속여부 정보(로그인이 이미 되어있나)
+NID_SES=
+AAABfeiMOFElwGEwzQN7sVgwEdsJHf/dEfLnHyjquqibMVX/8TLkcxz3yZgkCyTeJWdA+ZIJzb2d2glWTXloWYi+nFYb4cOLpG5L4DFas6L4ooS9SvWPoGIF8aLbE4hlc5+JVxJfoHQSrDaVd6pf4hFwTpTClSinbxeQO4h2UXcskfrTusBN6I4nFNZATLd8ZXBh0bXVmywcgvrX+D4iBhm04PmPv7mIZ5M4rZbXWadngC9nI2vbcaxGBM3MMiebNZncZp4zYVUs1atK4VBQmhxx9xW4Q1BUtBiIJ9YFrtinX/OECDzCYI32e+L5flTHFH7dHfI1mo3G7I0VZsBgmcbSdptMmbnTa5IoTwnNB8K2Hrn1gD2oNi4zRyHrGr1GBUOdSl+inXoOuCCObLhHPGfFJarYD1nVf2OQ+1ogVXw5zc+SreTGebFTinIpx4m5bzLPV+Dj58w3Fr3R3G7jb+7drxnpSffw4QAVtomE5urnMc7DOKdoQvOsX4ThcBKI3lWvgw==; 
+domain=.naver.com;
